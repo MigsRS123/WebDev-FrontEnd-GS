@@ -1,0 +1,19 @@
+{
+    "usuarios": [
+        {
+          "name": "HapVida",
+          "email": "hapvida@gmail.com",
+          "senha": "hapvida123"
+        }
+    ], 
+    "pacientes":[
+        {
+            "id":1,
+            "email":"juju@gmail.com",
+            "name": "Juliana Pires",
+            "desc": "Sofrendo dores de cabeça"
+
+        }
+
+    ]
+}
